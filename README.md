@@ -80,5 +80,5 @@ Open the app and place the camera over the printed papers. It will take some tim
 
 # Embedded Presentation 
 
-[![video presentation]()](https://www.youtube.com/watch?v=V8nryTX7vPU)
+[![video presentation](pics/youtube_thumb.png)](https://www.youtube.com/watch?v=V8nryTX7vPU)
 
