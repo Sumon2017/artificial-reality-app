@@ -47,7 +47,7 @@ Step 1 :
 
 Step 2 :
 
-If you want to manually add library and packages then download Library.zip and Packages.zip files from the following links.
+If you want to manually add library and packages then download Library.zip and Packages.zip files from the following links. 
 
 
 [Library.zip](https://drive.google.com/file/d/1RC782V1g8nUehCksZJ6UZNbqzwna3HED/view?usp=sharing
@@ -55,6 +55,8 @@ If you want to manually add library and packages then download Library.zip and P
 
 [Packages.zip](https://drive.google.com/file/d/1O87O5oLT2ADG1hbtz3wKzU3Eyx7nDgDX/view?usp=sharing
 )
+
+Unzip them and put the two folders in this project directory which is /augmented-reality-app
 
 links are also given in library-link.txt and package-link.txt files of this repository.
 
@@ -78,7 +80,9 @@ Open the app and place the camera over the printed papers. It will take some tim
 
 ---
 
-# Embedded Presentation 
+# Presentation 
+
+Click the below picture for youtube presentation :
 
 [![video presentation](pics/youtube_thumb.png)](https://www.youtube.com/watch?v=V8nryTX7vPU)
 
